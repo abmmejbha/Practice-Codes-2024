@@ -1,7 +1,3 @@
-# Practice-Codes-2024
-My practice codes and projects from 2024 in C, C++, Python, Java Script
-
-
 # Practice Codes 2024
 
 This repository contains my practice codes and small projects written in **C, C++**, and **Python** during 2024.  
@@ -19,8 +15,8 @@ Practice-Codes-2024/
 │   └── README.md
 │
 ├── CPP_Practice/        # C++ practice codes and projects
-│   ├── basics/          # Classes, inheritance, STL
-│   ├── projects/        # Mini projects (e.g., Student Management, Bank System)
+│   ├── basics/          # Classes, inheritance, 
+│   ├── projects/        # Mini projects 
 │   └── README.md
 │
 ├── Python_Practice/     # Python scripts and projects
