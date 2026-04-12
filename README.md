@@ -1,4 +1,4 @@
-# Practice Codes 2024
+# Practice Codes 2023-25
 
 This repository contains my practice codes and small projects written in **C, C++**, and **Python** during 2024.  
 It reflects my learning journey, experiments, and problem‑solving approaches while exploring programming concepts.
@@ -7,7 +7,7 @@ It reflects my learning journey, experiments, and problem‑solving approaches w
 
 ## 📂 Folder Structure
 
-Practice-Codes-2024/
+Practice-Codes-2023-25/
 │
 ├── C_Practice/          # Basic and advanced C programs
 │   ├── basics/          # Loops, arrays, functions
